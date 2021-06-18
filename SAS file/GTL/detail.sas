@@ -5,7 +5,7 @@ griddisplay: 显示刻度线
 display: 轴线, 刻度标记, 刻度值, 标签
 markercharacter: 给每个坐标添加标记字符,选项值可以是变量名
 labelstrip: 给标签或标记值去除空格
-labelposition: 标签位置daw
+labelposition: 标签位置
 
 ******************************************************/
 proc template;
